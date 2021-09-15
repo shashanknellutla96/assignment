@@ -1,0 +1,34 @@
+/* .container{ 
+    background-color:whitesmoke;
+}*/
+
+/*.row{
+     background-color: whitesmoke; 
+}*/
+
+.App{
+    background-color:whitesmoke;
+}
+
+.card-body{
+    background-color: white;
+
+}
+
+.mb-2.text-muted.card-subtitle.h6 {
+    padding-top: 20px;
+}
+
+.col-md-4{
+   /* background-color: white; */
+   margin-top:15px;
+    
+}
+
+.card-body{
+    padding:30px 10px;
+}
+
+
+
+
